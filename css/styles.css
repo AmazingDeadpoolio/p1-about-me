@@ -1,13 +1,24 @@
 body 
 	{background: red;
 	font-family: futura;}
+/* Navigation */
+a {
+	font-size: 20px;
+	color: white;
+	text-decoration: none;
+}
+/* Containers */
 img {
 	width: 300px;
 }
 #leftcolumn {
-	background: black;}
+	background: black;
+	float: left;
+	width: 400px;}
 #rightcolumn {
-	background: blue;}
+	background: blue;
+	float: left;
+	width: 400px;}
 .round {
 	border-radius: 20px;
 }
