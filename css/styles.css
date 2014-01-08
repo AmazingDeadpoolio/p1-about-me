@@ -4,3 +4,13 @@ body
 img {
 	width: 300px;
 }
+#leftcolumn {
+	background: black;}
+#rightcolumn {
+	background: blue;}
+.round {
+	border-radius: 20px;
+}
+.shadow {
+	box-shadow: 10px: 10px: 10px: black;
+}
