@@ -1,1 +1,6 @@
-body {background: red;}
+body 
+	{background: red;
+	font-family: futura;}
+img {
+	width: 300px;
+}
