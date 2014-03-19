@@ -11,6 +11,11 @@ a {
 /* Containers */
 img {
 	width: 300px;
+	border-radius: 20px;
+}
+@font-face {
+	font-family: 'Red October';
+	src: url('red_october-regular-webfont.woff');
 }
 #leftcolumn {
 	background: #a61412;
@@ -27,4 +32,5 @@ img {
 .round {
 	border-radius: 20px;
 	margin: 20px;
+	padding: 20px;
 }
