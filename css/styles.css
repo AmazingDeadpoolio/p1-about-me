@@ -1,9 +1,10 @@
-body 
-	{background: red;
-	font-family: futura;}
+body {
+	background: black;
+	font-family: 'Futura', sans-serif;
+}
 /* Navigation */
 a {
-	font-size: 20px;
+	font-size: 1.25em;
 	color: white;
 	text-decoration: none;
 }
@@ -12,16 +13,18 @@ img {
 	width: 300px;
 }
 #leftcolumn {
-	background: black;
+	background: #a61412;
 	float: left;
-	width: 400px;}
+	width: 400px;
+	display: block;
+}
 #rightcolumn {
-	background: blue;
+	background: #a61412;
 	float: left;
-	width: 400px;}
+	width: 400px;
+	display: block;
+}
 .round {
 	border-radius: 20px;
-}
-.shadow {
-	box-shadow: 10px: 10px: 10px: black;
+	margin: 20px;
 }
